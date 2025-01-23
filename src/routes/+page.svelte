@@ -45,9 +45,6 @@
   
   
   <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-    }
     button {
       background-color: #44aa66;
       /* background-color: blue; */
